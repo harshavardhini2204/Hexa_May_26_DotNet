@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+bin/
+obj/
+.vs/
+Logs/
+*.user
+*.suo
+*.cache
+=======
 .vs/
 bin/
 obj/
+>>>>>>> 29a5ce337e9abd8660e7ecffeca4654d667db7fc
